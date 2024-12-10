@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.container1
+{
+    max-width: 1500px;
+    margin: 0 auto;
+}
